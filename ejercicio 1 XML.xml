@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<socis>
+    <dni ID="45633875F">
+        <nom>Miquel</nom>
+        <cognom>Pons</cognom>
+        <email>miquelpons@gmail.com</email>
+    </dni>
+    
+    <dni ID="97458352S">
+        <nom>Joan</nom>
+        <cognom>Ribes</cognom>
+        <email>joanribes@gmail.com</email>
+    </dni>
+    
+    <dni ID="68411452W">
+        <nom>Maria</nom>
+        <cognom>Puig</cognom>
+        <email>mariapuig@gmail.com</email>
+    </dni>
+    
+</socis>
