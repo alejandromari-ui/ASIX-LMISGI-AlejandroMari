@@ -1,0 +1,58 @@
+{
+    "curs": {
+        "informacio_modul": {
+            "nom": "Llenguatges de Marques i Sistemes de Gestió d'Informació",
+            "cicle": "ASIX",
+            "caracter": "obligatori",
+            "hores_setmanals": 4,
+            "periode": {
+                "inici": "2023-09-25",
+                "fi": "2024-06-30"
+            }
+        },
+        "alumnes": [
+            {
+                "nif": "12345678A",
+                "dades_personals": {
+                    "nom": "Carles",
+                    "cognoms": "Canals Gozálvez"
+                },
+                "contacte": {
+                    "telefon": "971000000",
+                    "correu": "cgc@paucasesnovescifp.cat"
+                },
+                "adreca": {
+                    "carrer": "Sense Nom",
+                    "numero": 1,
+                    "poblacio": "Inca",
+                    "cp": "07300"
+                },
+                "resultats": {
+                    "faltes": 10,
+                    "qualificacio": "no apte"
+                }
+            },
+            {
+                "nif": "87654321Z",
+                "dades_personals": {
+                    "nom": "Joana",
+                    "cognoms": "Quetglas Caimari"
+                },
+                "contacte": {
+                    "telefon": "971123456",
+                    "correu": "qcj@paucasesnovescifp.cat"
+                },
+                "adreca": {
+                    "carrer": "Sense sortida",
+                    "numero": 3,
+                    "poblacio": "Sóller",
+                    "cp": "07100"
+                },
+                "resultats": {
+                    "faltes": 0,
+                    "qualificacio": "apte"
+                }
+            }
+        ]
+    }
+}
