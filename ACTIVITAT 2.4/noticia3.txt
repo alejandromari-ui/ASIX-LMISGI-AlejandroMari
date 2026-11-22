@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Solo Leveling</title>
+    <img src="imagenes/favicon.jpg" width="50">
+    <link rel="icon" href="imagenes/favicon.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Cabecera -->
+    <header class="cabecera">
+        <h1 class="titulo">Solo Leveling</h1>
+        <img src="imagenes/sololeveling.jpg" width="500">
+        <p class="subtitulo">Sung Jinwoo continúa conquistando a los fans del anime de acción.</p>
+    </header>
+
+    <!-- Menú -->
+    <nav class='menu'>
+        <a href="index.html">Inicio</a> 
+        <a href="noticia1.html">Bleach</a> 
+        <a href="noticia2.html">Dragon Ball</a> 
+        <a href="noticia3.html">Solo Leveling</a> 
+        <a href="noticia4.html">One Piece</a> 
+        <a href="noticia5.html">Naruto</a>
+    </nav>
+
+    <hr>
+    <main class="contenido">
+      <section class="escrito">
+        <h2 class="titulo_noticia"><cite>Solo Leveling</cite> muestra nuevas imágenes del ejército de Sung Jinwoo y prepara su nuevo arco para cines</h2>
+        <img src="imagenes/sung.jpg" width="500">
+        <br>
+        <p0 class="subtitulo_noticia">Desde la cuenta oficial de <cite>Solo Leveling</cite> comparten nuevos carteles de las sombras de Sung Jinwoo: la primera película de la serie está en camino.</p0>
+
+    <hr>
+        <p1><cite>Solo Leveling</cite> calienta motores para 'Beyond the System', su primera película en cines, y comparte nuevas imágenes de las sombras de Sung Jinwoo. Mientras la secuela de Dauel, en el terreno del manhwa, reanuda su publicación con la temporada 3, el anime de Aniplex y A-1 Pictures se prepara para conquistar las salas de cine tras haber convertido la historia de Chugong en un fenómeno mundial sin precedentes, siendo el anime más valorado y seguido de Crunchyroll.</p1>
+        
+        <br>
+        <br>
+        <p2><cite>Solo Leveling: Beyond the System</cite> tiene confirmado su estreno en la gran pantalla para 2027 y, por ahora, únicamente hemos podido ver un breve tráiler mostrando a Sung Jinwoo junto a su ejército. Ahora, desde la cuenta oficial de la serie llegan unos carteles dedicados a Iron, Beru, Igrit, Tank, Kaisel y Kiba, las sombras más poderosas del protagonista.</p2>
+
+        <video controls width="100%" preload="metadata">
+            <source src="video/trailer_sololeveling.mp4" type="video/mp4">
+        </video>
+
+      </section>
+    </main>
+    <br>
+    
+    <hr>
+        <!-- Pie de página -->
+    <footer class="pie_de_pagina">
+        <p0>"Datos e información obtenidos de Vandal con fines informativos."</p0>
+        <br>
+        <p1>Alejandro Marí</p1>
+    </footer>
+</body>
+</html>
