@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>One Piece</title>
+    <img src="imagenes/favicon.jpg" width="50">
+    <link rel="icon" href="imagenes/favicon.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Cabecera -->
+    <header class="cabecera">
+        <h1 class="titulo">One Piece</h1>
+        <img src="imagenes/onepiece.jpg" width="500">
+        <p class="subtitulo">Luffy sigue buscando el legendario tesoro One Piece.</p>
+    </header>
+
+    <!-- Menú -->
+    <nav class='menu'>
+        <a href="index.html">Inicio</a> 
+        <a href="noticia1.html">Bleach</a> 
+        <a href="noticia2.html">Dragon Ball</a> 
+        <a href="noticia3.html">Solo Leveling</a> 
+        <a href="noticia4.html">One Piece</a> 
+        <a href="noticia5.html">Naruto</a>
+    </nav>
+
+    <hr>
+    <main class="contenido">
+      <section class="escrito">
+        <h2 class="titulo_noticia">GTA 6 no se olvida de <cite>'One Piece'</cite> tras 13 años y Eiichiro Oda presenta la transformación definitiva de Luffy</h2>
+        <img src="imagenes/luffy.jpg" width="500">
+        <br>
+        <p0 class="subtitulo_noticia">La obra de Eiichiro Oda ha sobrevivido a la larga espera del nuevo juego de Rockstar y se encuentra en uno de sus puntos más álgidos.</p0>
+
+    <hr>
+        <p1>Tras una larga espera de 13 años, llega finalmente <cite>'GTA 6'</cite> para convertirse en el juego de nuestras vidas. Rockstar, sin lugar a dudas, ha vuelto a firmar una obra histórica que marca un antes y un después en la industria del videojuego, con uno de los mundos abiertos más espectaculares del medio. Durante este tiempo, hay mil y una historias que han concluido, pero 'One Piece' ha permanecido gracias al inmenso imaginario de Eiichiro Oda y desde la compañía no se olvidan de los Sombrero de Paja, realizando un guiño que no ha pasado desapercibido mientras el manga, por su parte, prepara la mayor transformación de Monkey D. Luffy.</p1>
+        
+        <br>
+        <br>
+        <p2>A pesar de que la representación de <cite>'One Piece'</cite> en <cite>'GTA 6'</cite> no pasa de un pequeño homenaje, que Rockstar haya tomado la decisión de incluir también la serie de Oda en su gran proyecto es sin duda un gesto a tener en cuenta. Cuando <cite>'GTA V'</cite> llegó al mercado, la serie iba por el episodio 721, y ahora, más de una década más tarde, los Sombrero de Paja están haciendo frente a uno de los mayores villanos de la historia en pleno arco de Elbaf, a través de los episodios 1198 y 1199. Y es que esta sexta entrega de la saga de acción aterriza en un momento clave para la aventura de Luffy</p2>
+
+        <br>
+        <br> 
+
+        <table border="1">
+            <caption>Transformaciones de Luffy</caption>
+            <tr>
+                <th>Gear 2</th>
+                <th>Gear 3</th>
+                <th>Gear 4</th>
+                <th>Gear 5</th>
+            </tr>
+            <tr>
+                <td>Acelera el flujo sanguíneo usando su cuerpo de goma</td>
+                <td>Infla sus huesos con aire para lograr golpes gigantescos</td>
+                <td>Combina goma y Haki de armadura inflando su musculatura</td>
+                <td>Despertar de la fruta Hito Hito no Mi</td>
+            </tr>
+        </table>
+
+      </section>
+    </main>
+    <br>
+    
+    <hr>
+        <!-- Pie de página -->
+    <footer class="pie_de_pagina">
+        <p0>"Datos e información obtenidos de Vandal con fines informativos."</p0>
+        <br>
+        <p1>Alejandro Marí</p1>
+    </footer>
+</body>
+</html>

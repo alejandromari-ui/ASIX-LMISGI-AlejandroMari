@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Noticias anime</title>
+    <img src="imagenes/favicon.jpg" width="50">
+    <link rel="icon" href="imagenes/favicon.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Cabecera -->
+    <header class="cabecera">
+        <h1>Noticias anime</h1>
+        <p>Noticias del mundo del anime</p>
+    </header>
+
+    <!-- Menú -->
+    <nav class='menu'>
+        <a href="index.html">Inicio</a>
+        <a href="noticia1.html">Bleach</a>
+        <a href="noticia2.html">Dragon Ball</a>
+        <a href="noticia3.html">Solo Leveling</a>
+        <a href="noticia4.html">One Piece</a>
+        <a href="noticia5.html">Naruto</a>
+    </nav>
+
+    <hr>
+
+    <!--Contenido de las noticias -->
+    <main class="contenido">
+        <section class="noticias">
+            <h2>Noticias de anime 2026</h2>
+
+            <article class="articulo">
+                <img src="imagenes/bleach.jpg" width="200">
+                <div class="textonoticia">
+                  <h3>Bleach</h3>
+                  <p>Bleach sigue emocionando a sus fans con las batallas de Ichigo.</p>
+                  <a href="noticia1.html">Leer más</a>
+                </div>
+            </article>
+
+            <article class="articulo">
+                <img src="imagenes/dragonball.jpg" width="200">
+                <div class="textonoticia">
+                  <h3>Dragon Ball</h3>
+                  <p>Goku y Vegeta siguen siendo protagonistas de una de las sagas más famosas.</p>
+                  <a href="noticia2.html">Leer más</a>
+                </div>
+            </article>
+
+            <article class="articulo">
+              <img src="imagenes/sololeveling.jpg" width="200">
+              <div class="textonoticia">
+                <h3>Solo Leveling</h3>
+                <p>Sung Jinwoo continúa conquistando a los fans del anime de acción.</p>
+                <a href="noticia3.html">Leer más</a>
+              </div>
+            </article>
+
+            <article class="articulo">
+              <img src="imagenes/onepiece.jpg" width="200">
+              <div class="textonoticia">
+                <h3>One Piece</h3>
+                <p>Luffy sigue buscando el legendario tesoro One Piece.</p>
+                <a href="noticia4.html">Leer más</a>
+              </div>
+            </article>
+
+            <article class="articulo">
+              <img src="imagenes/naruto.jpg" width="200">
+              <div class="textonoticia">
+                <h3>Naruto</h3>
+                <p>El universo ninja de Naruto sigue siendo muy popular.</p>
+                <a href="noticia5.html">Leer más</a>
+              </div>
+            </article>
+        </section>
+
+        <hr>
+        <!-- Pie de página -->
+    <footer class="pie_de_pagina">
+        <p0>"Datos e información obtenidos de Vandal con fines informativos."</p0>
+        <br>
+        <p1>Alejandro Marí</p1>
+    </footer>
+
+</body>
+</html>
