@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Naruto</title>
+    <img src="imagenes/favicon.jpg" width="50">
+    <link rel="icon" href="imagenes/favicon.jpg">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Cabecera -->
+    <header class="cabecera">
+        <h1 class="titulo">Naruto</h1>
+        <img src="imagenes/naruto.jpg" width="500">
+        <p class="subtitulo">El universo ninja de Naruto sigue siendo muy popular.</p>
+    </header>
+
+    <!-- Menú -->
+    <nav class='menu'>
+        <a href="index.html">Inicio</a> 
+        <a href="noticia1.html">Bleach</a> 
+        <a href="noticia2.html">Dragon Ball</a> 
+        <a href="noticia3.html">Solo Leveling</a> 
+        <a href="noticia4.html">One Piece</a> 
+        <a href="noticia5.html">Naruto</a>
+    </nav>
+
+    <hr>
+    <main class="contenido">
+      <section class="escrito">
+        <h2 class="titulo_noticia">La reflexión de Masashi Kishimoto sobre el arco más difícil de <cite>Naruto</cite>: 'Fue la peor época de mi vida'</h2>
+        <img src="imagenes/pain.jpg" width="500">
+        <br>
+        <p0 class="subtitulo_noticia">Masashi Kishimoto confiesa que el arco de Pain fue el momento más difícil de 'Naruto': la destrucción de la Villa Oculta de la Hoja llevó al mangaka al límite.</p0>
+
+    <hr>
+        <p1>No son pocos los fans de <cite>Naruto</cite> que coinciden en que la serie debería haber finalizado con el arco de Pain, uno de los mejor valorados de la obra de Masashi Kishimoto. El mangaka, que pasó por un infierno para poder culminar la historia de Konoha en las viñetas, afirma que esa etapa de la ficción, con uno de los mayores villanos del relato irrumpiendo en la Villa Oculta de la Hoja, fue la peor época de su vida por las grandes dificultades por las que atravesó para completarla.</p1>
+        
+        <br>
+        <br>
+
+        <p2>Durante una pasada entrevista, Kishimoto confiesa que el arco de Pain fue realmente duro y hasta doloroso, porque se encontró con un escenario realmente complicado de abordar, debido a que tanto el líder de los Akatsuki como Naruto tenían razón en su medida: <blockquote>"La parte más difícil para mí fue probablemente el arco de Pain. La lógica de Pain puede interpretarse como justa, pero al mismo tiempo también la de Naruto. Dado que ambos personajes podían verse como correctos, realmente me angustié intentando resolver adecuadamente el desenlace. Esa fue una época verdaderamente difícil para mí".</blockquote></p2>
+
+        <br>
+        <br> 
+
+        <h3>Los arcos más difíciles de <cite>Naruto</cite></h3>
+        <p>Masashi Kishimoto ha compartido cuáles fueron los arcos más difíciles de crear debido a bloqueos creativos y morales.</p>
+        <ul>
+            <li>El diálogo entre Naruto y Nagato (Capítulos 444 – 449)</li>
+            <li>La Cuarta Gran Guerra Ninja (Capítulos 515 – 699)</li>
+            <li>Los Exámenes Chunin (Capítulos 34 – 115)</li>
+        </ul>
+
+        <p>Más difíciles de crear debido a esfuerzo técnico (dibujo).</p>
+        <ul>
+            <li>La destrucción de Konoha con el Shinra Tensei (Capítulo 429)</li>
+            <li>Los capítulos centrados en Sasuke Uchiha.</li>
+        </ul>
+
+      </section>
+    </main>
+    <br>
+    
+    <hr>
+        <!-- Pie de página -->
+    <footer class="pie_de_pagina">
+        <p0>"Datos e información obtenidos de Vandal con fines informativos."</p0>
+        <br>
+        <p1>Alejandro Marí</p1>
+    </footer>
+</body>
+</html>
